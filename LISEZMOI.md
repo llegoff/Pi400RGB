@@ -1,7 +1,7 @@
 [:fr:](LISEZMOI.md) [:uk:](README.md)
 
 
-![](img/Pi400RGB.png)
+![](img/Pi400RGB.jpg)
 
 ### DPI (Display parallel Interface)
 Comme pour l'interface [VGA666](https://github.com/fenlogic/vga666), ce montage utilise le l'interface DPI du Raspberry pi (mode 6), 
