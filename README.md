@@ -75,6 +75,7 @@ https://wiki.recalbox.com/fr/tutorials/video/crt/recalbox-on-crt-with-scart-dac
 
 ## PCB
 ![pcb](img/3D.PNG)
+![pcb](img/3D2.PNG)
 
 ## Installation
 copy content of [config-example.txt](img/config-example.txt?raw=true) to /boot/config.txt
