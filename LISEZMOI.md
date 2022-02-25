@@ -1,7 +1,7 @@
 [:fr:](LISEZMOI.md) [:uk:](README.md)
 
 # Pi400RGB
-Scart/VGA interface for Raspberry Pi 400
+Interface Péritel/VGA pour le Raspberry Pi 400
 
 ![](img/Pi400RGB.jpg)
 
