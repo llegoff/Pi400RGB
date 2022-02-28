@@ -6,12 +6,12 @@ dtparam=audio=on
 dtparam=i2c_arm=off
 
 #information https://www.raspberrypi.org/documentation/hardware/raspberrypi/dpi/README.md 
-gpio=2-8,12-17,20-24=a2
-dpi_output_format=0x13
+gpio=2-9,12-17,20-25=a2
+dpi_output_format=0x6
 enable_dpi_lcd=1
 display_default_lcd=1
 dpi_group=2
-dpi_mode=16
+#dpi_mode=16
 #---------------- dpi_mode line ---------------------
 #---> 640x480 60hz   dpi_mode=4
 #---> 800x600 60hz   dpi_mode=9
@@ -29,4 +29,7 @@ dpi_mode=16
 #---> 1920x1080 60hz dpi_mode=82
 #---> 1920x1200 60hz dpi_mode=69
 #---> 1920x1440 60hz dpi_mode=73
-
+#--------------- dpi_mode line SCART ------------------
+dpi_mode=87
+hdmi_timings=506 1 8 44 52 240 1 6 10 6 0 0 0 60 0 9600000 1
+#hdmi_timings=320 1 17 33 34 224 1 14 8 18 0 0 0 60 0 6400000 1
