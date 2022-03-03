@@ -3,12 +3,11 @@
 # Pi400RGB
 Scart/VGA interface for Raspberry Pi 400
 
-
 Evolution of VGA_Zero (https://github.com/llegoff/VGA_Zero) and Pi400VGA (https://github.com/llegoff/Pi400VGA)
 
-![](img/Pi400RGB.jpg)
+buy on [ebay](https://www.ebay.fr/itm/403514313069) :package:
 
-buy on [ebay](https://www.ebay.fr/itm/403514313069) 
+![](img/Pi400RGB.jpg)
 
 ### DPI (Display parallel Interface)
 Like [VGA666](https://github.com/fenlogic/vga666), this pcb uses dpi interface (in mode 6 to free gpio 18 & 19)
