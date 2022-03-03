@@ -8,6 +8,8 @@ Evolution of VGA_Zero (https://github.com/llegoff/VGA_Zero) and Pi400VGA (https:
 
 ![](img/Pi400RGB.jpg)
 
+buy on [ebay](https://www.ebay.fr/itm/403514313069) 
+
 ### DPI (Display parallel Interface)
 Like [VGA666](https://github.com/fenlogic/vga666), this pcb uses dpi interface (in mode 6 to free gpio 18 & 19)
 
