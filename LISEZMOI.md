@@ -7,7 +7,9 @@ Evolution du VGA_Zero (https://github.com/llegoff/VGA_Zero) et du Pi400VGA (http
 
 Achetez sur [ebay](https://www.ebay.fr/itm/403514313069) :package:
 
-![](img/Pi400RGB.jpg)
+![](img/Pi400RGB1.jpg)
+
+![](img/Pi400RGB2.jpg)
 
 ### DPI (Display parallel Interface)
 Comme pour l'interface [VGA666](https://github.com/fenlogic/vga666), ce montage utilise le l'interface DPI du Raspberry pi (mode 6), 
