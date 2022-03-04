@@ -73,7 +73,7 @@ Editez le fichier de configuration /crt/recalbox-crt-options.cfg qui se trouve d
 
 https://wiki.recalbox.com/fr/tutorials/video/crt/recalbox-on-crt-with-scart-dac
 
-![img/recalbox-config.png]
+![](img/recalbox-config.png)
    
 ## Schéma & Circuit Imprimé
 ![sch](img/sch.PNG)
