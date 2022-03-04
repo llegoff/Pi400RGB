@@ -85,3 +85,4 @@ Copier le contenu du fichier [config-example.txt](img/config-example.txt?raw=tru
 ## Révision
 rev1
 
+rev2 : ajout du DDC sur le connecteur VGA et dip switch, arrive prochainement
