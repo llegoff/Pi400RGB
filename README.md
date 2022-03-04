@@ -73,7 +73,7 @@ edit the config file /crt/recalbox-crt-options.cfg in the [RECALBOX] partition m
 
 https://wiki.recalbox.com/fr/tutorials/video/crt/recalbox-on-crt-with-scart-dac
 
-![img/recalbox-config.png]
+![](img/recalbox-config.png)
 
 ## Schematic
 ![sch](img/sch.PNG)
