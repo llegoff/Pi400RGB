@@ -5,7 +5,7 @@ Scart/VGA interface for Raspberry Pi 400
 
 Evolution of VGA_Zero (https://github.com/llegoff/VGA_Zero) and Pi400VGA (https://github.com/llegoff/Pi400VGA)
 
-buy on [ebay](https://www.ebay.fr/itm/403514313069 :package: :credit_card: )
+buy on [ebay  :package: :credit_card:](https://www.ebay.fr/itm/403514313069)
 
 ![](img/Pi400RGB1.jpg)
 
