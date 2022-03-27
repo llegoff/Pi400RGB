@@ -5,7 +5,9 @@ Interface Péritel/VGA pour le Raspberry Pi 400
 
 Evolution du VGA_Zero (https://github.com/llegoff/VGA_Zero) et du Pi400VGA (https://github.com/llegoff/Pi400VGA)
 
-Achetez sur [ebay :package: :credit_card:](https://www.ebay.fr/itm/403514313069)
+Achetez la V1 Péritel sur [ebay :package: :credit_card:](https://www.ebay.fr/itm/403514313069)
+
+Achetez la V2 sur [ebay  :package: :credit_card:](https://www.ebay.fr/itm/403568619957)
 
 ![](img/Pi400RGB1.jpg)
 
