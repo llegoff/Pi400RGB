@@ -11,6 +11,8 @@ buy on [ebay  :package: :credit_card:](https://www.ebay.fr/itm/403514313069)
 
 ![](img/Pi400RGB2.jpg)
 
+![](img/Pi400RGB3.jpg)
+
 ### DPI (Display parallel Interface)
 Like [VGA666](https://github.com/fenlogic/vga666), this pcb uses dpi interface (in mode 6 to free gpio 18 & 19)
 
