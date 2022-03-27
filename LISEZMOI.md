@@ -11,6 +11,9 @@ Achetez sur [ebay :package: :credit_card:](https://www.ebay.fr/itm/403514313069)
 
 ![](img/Pi400RGB2.jpg)
 
+![](img/Pi400RGB3.jpg)
+
+
 ### DPI (Display parallel Interface)
 Comme pour l'interface [VGA666](https://github.com/fenlogic/vga666), ce montage utilise le l'interface DPI du Raspberry pi (mode 6), 
 
