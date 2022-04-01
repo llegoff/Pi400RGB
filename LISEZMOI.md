@@ -7,6 +7,8 @@ Evolution du VGA_Zero (https://github.com/llegoff/VGA_Zero) et du Pi400VGA (http
 
 Achetez la V1 Péritel sur [ebay :package: :credit_card:](https://www.ebay.fr/itm/403514313069)
 
+Achetez la V1 VGA on [ebay  :package: :credit_card:](https://www.ebay.fr/itm/403577489257)
+
 Achetez la V2 sur [ebay  :package: :credit_card:](https://www.ebay.fr/itm/403568619957)
 
 ![](img/Pi400RGB1.jpg)
