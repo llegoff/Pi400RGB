@@ -7,6 +7,8 @@ Evolution of VGA_Zero (https://github.com/llegoff/VGA_Zero) and Pi400VGA (https:
 
 buy V1 SCART on [ebay  :package: :credit_card:](https://www.ebay.fr/itm/403514313069)
 
+buy V1 VGA on [ebay  :package: :credit_card:](https://www.ebay.fr/itm/403577489257)
+
 buy V2 on [ebay  :package: :credit_card:](https://www.ebay.fr/itm/403568619957)
 
 ![](img/Pi400RGB1.jpg)
