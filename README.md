@@ -9,7 +9,7 @@ buy V1 SCART on [ebay  :package: :credit_card:](https://www.ebay.fr/itm/40351431
 
 buy V1 VGA on [ebay  :package: :credit_card:](https://www.ebay.fr/itm/403577489257)
 
-buy V2 on [ebay  :package: :credit_card:](https://www.ebay.fr/itm/403568619957)
+buy V2 on [ebay  :package: :credit_card:](https://www.ebay.fr/itm/403578324991)
 
 ![](img/Pi400RGB1.jpg)
 
