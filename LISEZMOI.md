@@ -9,7 +9,7 @@ Achetez la V1 Péritel sur [ebay :package: :credit_card:](https://www.ebay.fr/it
 
 Achetez la V1 VGA on [ebay  :package: :credit_card:](https://www.ebay.fr/itm/403577489257)
 
-Achetez la V2 sur [ebay  :package: :credit_card:](https://www.ebay.fr/itm/403568619957) (with dip switch for recalbox)
+Achetez la V2 sur [ebay  :package: :credit_card:](https://www.ebay.fr/itm/403578324991) (with dip switch for recalbox)
 
 ![](img/Pi400RGB1.jpg)
 
