@@ -98,7 +98,7 @@ https://wiki.recalbox.com/fr/tutorials/video/crt/recalbox-on-crt-with-scart-dac
 
 Add a jumper on V1 PCB
 
-![](img/config_jumper.jpg=300x)
+![](img/config_jumper.jpg =300x)
 
 
 ## Schematic
