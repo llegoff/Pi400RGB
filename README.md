@@ -94,7 +94,7 @@ edit the config file /crt/recalbox-crt-options.cfg
 
 https://wiki.recalbox.com/fr/tutorials/video/crt/recalbox-on-crt-with-scart-dac
 
-![](img/recalbox-config.png)
+![](img/recalbox-config.png=300x)
 
 Add a jumper on V1 PCB
 
