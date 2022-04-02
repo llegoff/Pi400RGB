@@ -86,12 +86,8 @@ Until the official release of Recalbox 8.1, you will have to use the special ver
 
 see manual : https://www.recalbox.com/recalbox-rgb-dual/manual/
 
-for rev1
 
-    # Pour rgbpi
-    adapter.type = rgbpi
-
-for rev2
+edit the config file /crt/recalbox-crt-options.cfg
 
     # Pour recalboxrgbdual
     adapter.type = recalboxrgbdual
@@ -99,6 +95,11 @@ for rev2
 https://wiki.recalbox.com/fr/tutorials/video/crt/recalbox-on-crt-with-scart-dac
 
 ![](img/recalbox-config.png)
+
+Add a jumper on V1 PCB
+
+![](img/config_jumper.jpg)
+
 
 ## Schematic
 ![sch](img/sch.PNG)
