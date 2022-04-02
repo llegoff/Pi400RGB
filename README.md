@@ -115,4 +115,4 @@ copy content of [config-example.txt](img/config-example.txt?raw=true) to /boot/c
 ## Révision
 rev1 : initial version
 
-rev2 : add DDC on VGA connector and dip switch, coming soon
+rev2 : add DDC on VGA connector and dip switch for recalbox configuration, coming soon
