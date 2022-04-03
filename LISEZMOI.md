@@ -69,6 +69,25 @@ seuls les bits nécessaires du dpi sont redirigées sur le port GPIO 40 broches,
     #hdmi_timings=640 1 24 64 104 480 1 3 6 34 0 0 0 60 1 13054080 1
     #480p@60
     #hdmi_timings=640 1 24 96 48 480 1 11 2 32 0 0 0 60 0 25452000 1
+    
+Configuration compatible avec vc4-kms-v3d
+
+    dtoverlay=vc4-kms-dpi-generic,rgb666-padhi
+    dtparam=hactive=768,hfp=24,hsync=72,hbp=88
+    dtparam=vactive=576,vfp=6,vsync=5,vbp=38
+    dtparam=clock-frequency=14875000
+    #Resolution          hactive hfp hsync hbp  vactive vfp vsync vbp clock-frequency
+    #VGA 640x480 @60     640     16  96    48   480     10  2     33  25175000
+    #SVGA 800x600 @60    800     40  128   88   600     1   4     23  40000000
+    #XGA 1024x768 @60    1024    24  136   160  768     3   6     29  65000000
+    #244p @60            320     4   30    46   240     4   5     14  6400000
+    #288p @50            384     16  32    40   288     3   2     19  7363200
+    #576i @50            768     24  72    88   576     6   5     38  14875000
+    #480i @60            640     24  64    104  480     3   6     34  13054080
+    #480p @60            640     24  96    48   480     11  2     32  25452000
+    #more timming on http://tinyvga.com/vga-timing
+    
+    
 ### Interface audio
 le son est généré en MLI (PWM) à partir des broches gpio 18 & 19
 
@@ -82,12 +101,24 @@ le son est généré en MLI (PWM) à partir des broches gpio 18 & 19
 
 Editez le fichier de configuration /crt/recalbox-crt-options.cfg qui se trouve dans la partition [RECALBOX] lorsque vous placez la carte sd dans votre ordinateur:
 
-    # Pour rgbpi
-    adapter.type = rgbpi
+Jusqu'à la sortie officielle de Recalbox 8.1, il vous faudra utiliser la version spéciale estampillée recalboxrgbdual.
+
+Voir le manuel : https://www.recalbox.com/fr/recalbox-rgb-dual/manual/
+
+
+editez le fichier /crt/recalbox-crt-options.cfg
+
+    # Pour recalboxrgbdual
+    adapter.type = recalboxrgbdual
 
 https://wiki.recalbox.com/fr/tutorials/video/crt/recalbox-on-crt-with-scart-dac
 
 ![](img/recalbox-config.png)
+
+Ajouter un cavalier de configuration sur le PCB V1
+
+![](img/config_jumper.jpg)
+
    
 ## Schéma & Circuit Imprimé
 ![sch](img/sch.PNG)
