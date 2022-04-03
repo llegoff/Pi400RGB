@@ -109,7 +109,7 @@ edit the config file /crt/recalbox-crt-options.cfg
     # Pour recalboxrgbdual
     adapter.type = recalboxrgbdual
 
-https://wiki.recalbox.com/fr/tutorials/video/crt/recalbox-on-crt-with-scart-dac
+https://wiki.recalbox.com/en/tutorials/video/crt/recalbox-on-crt-with-scart-dac
 
 ![](img/recalbox-config.png)
 
