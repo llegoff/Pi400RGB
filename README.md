@@ -75,12 +75,16 @@ Configuration working with vc4-kms-v3d
     dtparam=hactive=768,hfp=24,hsync=72,hbp=88
     dtparam=vactive=576,vfp=6,vsync=5,vbp=38
     dtparam=clock-frequency=14875000
-    #Resolution  hactive hfp hsync hbp vactive vfp vsync vbp clock-frequency
-    #244p@60     320     4   30    46  240     4   5     14  6400000
-    #288p@50     384     16  32    40  288     3   2     19  7363200
-    #576i@50     768     24  72    88  576     6   5     38  14875000
-    #480i@60     640     24  64    104 480     3   6     34  13054080
-    #480p@60     640     24  96    48  480     11  2     32  25452000
+    #Resolution          hactive hfp hsync hbp  vactive vfp vsync vbp clock-frequency
+    #VGA 640x480 @60     640     16  96    48   480     10  2     33  25175000
+    #SVGA 800x600 @60    800     40  128   88   600     1   4     23  40000000
+    #XGA 1024x768 @60    1024    24  136   160  768     3   6     29  65000000
+    #244p @60            320     4   30    46   240     4   5     14  6400000
+    #288p @50            384     16  32    40   288     3   2     19  7363200
+    #576i @50            768     24  72    88   576     6   5     38  14875000
+    #480i @60            640     24  64    104  480     3   6     34  13054080
+    #480p @60            640     24  96    48   480     11  2     32  25452000
+    #more timming on http://tinyvga.com/vga-timing
 
 ### Audio Interface
 audio interface is connected to gpio 18 & 19 (PWM)
