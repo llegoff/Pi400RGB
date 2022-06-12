@@ -101,8 +101,6 @@ le son est généré en MLI (PWM) à partir des broches gpio 18 & 19
 
 Editez le fichier de configuration /crt/recalbox-crt-options.cfg qui se trouve dans la partition [RECALBOX] lorsque vous placez la carte sd dans votre ordinateur:
 
-Jusqu'à la sortie officielle de Recalbox 8.1, il vous faudra utiliser la version spéciale estampillée recalboxrgbdual.
-
 Voir le manuel : https://www.recalbox.com/fr/recalbox-rgb-dual/manual/
 
 
