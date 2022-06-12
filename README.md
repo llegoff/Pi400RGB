@@ -105,10 +105,7 @@ audio interface is connected to gpio 18 & 19 (PWM)
 
 edit the config file /crt/recalbox-crt-options.cfg in the [RECALBOX] partition mounted when you plug the SD card in your computer:
 
-Until the official release of Recalbox 8.1, you will have to use the special version stamped
-
 see manual : https://www.recalbox.com/recalbox-rgb-dual/manual/
-
 
 edit the config file /crt/recalbox-crt-options.cfg
 
