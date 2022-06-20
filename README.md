@@ -5,8 +5,6 @@ Scart/VGA interface for Raspberry Pi 400
 
 Evolution of VGA_Zero (https://github.com/llegoff/VGA_Zero) and Pi400VGA (https://github.com/llegoff/Pi400VGA)
 
-buy V1 SCART on [ebay  :package: :credit_card:](https://www.ebay.fr/itm/403514313069) , with recalbox auto/50hz config jumper
-
 buy V1 VGA on [ebay  :package: :credit_card:](https://www.ebay.fr/itm/403577489257)
 
 buy V2 on [ebay  :package: :credit_card:](https://www.ebay.fr/itm/403578324991)
