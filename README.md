@@ -110,6 +110,8 @@ edit the config file /crt/recalbox-crt-options.cfg
     # Pour recalboxrgbdual
     adapter.type = recalboxrgbdual
 
+the first boot can take 5 minutes
+
 https://wiki.recalbox.com/en/tutorials/video/crt/recalbox-on-crt-with-scart-dac
 
 ![](img/recalbox-config.png)
