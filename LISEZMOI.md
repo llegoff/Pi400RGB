@@ -107,6 +107,8 @@ editez le fichier /crt/recalbox-crt-options.cfg
     # Pour recalboxrgbdual
     adapter.type = recalboxrgbdual
 
+le premier démarrage peut prendre 5 minutes
+
 https://wiki.recalbox.com/fr/tutorials/video/crt/recalbox-on-crt-with-scart-dac
 
 ![](img/recalbox-config.png)
