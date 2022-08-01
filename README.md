@@ -5,8 +5,6 @@ Scart/VGA interface for Raspberry Pi 400
 
 Evolution of VGA_Zero (https://github.com/llegoff/VGA_Zero) and Pi400VGA (https://github.com/llegoff/Pi400VGA)
 
-buy V1 VGA on [ebay  :package: :credit_card:](https://www.ebay.fr/itm/403577489257)
-
 buy V2 on [ebay  :package: :credit_card:](https://www.ebay.fr/itm/403578324991)
 
 ![](img/Pi400RGB1.jpg)
@@ -56,7 +54,7 @@ only the necessary bits of the dpi are redirected to the 40-pin GPIO port, with 
     #---> 1920x1440 60hz  dpi_mode=73    
     #--------------- dpi_mode line SCART ------------------
     dpi_mode=87
-    #244p@60
+    #240p@60
     #hdmi_timings=320 1 4 30 46 240 1 4 5 14 0 0 0 60 0 6400000 1
     #288p@50
     #hdmi_timings=384 1 16 32 40 288 1 3 2 19 0 0 0 50 0 7363200 1
@@ -83,7 +81,7 @@ Configuration working with vc4-kms-v3d
     #VESA 1400x1050 @60  1400     88  152   240  1050     1   3    33   122660000
     #VESA 1600x1200 @60  1600     64  192   304  1200     1   3    46   162000000
     #--- TV -----
-    #244p (NTSC res)@60   320      4   30    46   240     4   5    14     6400000
+    #240p (NTSC res)@60   320      4   30    46   240     4   5    14     6400000
     #288p (PAL res) @50   384     16   32    40   288     3   2    19     7363200
     #480p           @60   640     24   96    48   480    11   2    32    25452000
     #720p           @60  1280    110   40   220   720     5   5    20    74250000
