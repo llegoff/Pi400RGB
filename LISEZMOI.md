@@ -5,8 +5,6 @@ Interface Péritel/VGA pour le Raspberry Pi 400
 
 Evolution du VGA_Zero (https://github.com/llegoff/VGA_Zero) et du Pi400VGA (https://github.com/llegoff/Pi400VGA)
 
-Achetez la V1 VGA on [ebay  :package: :credit_card:](https://www.ebay.fr/itm/403577489257)
-
 Achetez la V2 sur [ebay  :package: :credit_card:](https://www.ebay.fr/itm/403578324991) (with dip switch for recalbox)
 
 ![](img/Pi400RGB1.jpg)
@@ -57,7 +55,7 @@ seuls les bits nécessaires du dpi sont redirigées sur le port GPIO 40 broches,
     #---> 1920x1440 60hz  dpi_mode=73    
     #--------------- dpi_mode line SCART ------------------
     dpi_mode=87
-    #244p@60
+    #240p@60
     #hdmi_timings=320 1 4 30 46 240 1 4 5 14 0 0 0 60 0 6400000 1
     #288p@50
     #hdmi_timings=384 1 16 32 40 288 1 3 2 19 0 0 0 50 0 7363200 1
@@ -78,7 +76,7 @@ Configuration compatible avec vc4-kms-v3d
     #VGA 640x480 @60     640     16  96    48   480     10  2     33  25175000
     #SVGA 800x600 @60    800     40  128   88   600     1   4     23  40000000
     #XGA 1024x768 @60    1024    24  136   160  768     3   6     29  65000000
-    #244p @60            320     4   30    46   240     4   5     14  6400000
+    #240p @60            320     4   30    46   240     4   5     14  6400000
     #288p @50            384     16  32    40   288     3   2     19  7363200
     #576i @50            768     24  72    88   576     6   5     38  14875000
     #480i @60            640     24  64    104  480     3   6     34  13054080
